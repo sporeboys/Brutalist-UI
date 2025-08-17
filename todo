@@ -1,0 +1,3 @@
+sort border sttyling (✓)
+sort css from another file, ideally ts file with tilwind classes that can exort to html. or css file with tailiwnd vars
+sort dynamic loading from other html files, like comonents
